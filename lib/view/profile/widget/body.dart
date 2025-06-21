@@ -62,7 +62,7 @@ class _BodyProfileState extends State<BodyProfile> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Nuon Visal",
+                "Team-MS2",
                 style: AppThemes.profileDevName
               ),
               Text(
